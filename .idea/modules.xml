@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bilet 1/Bilet 1.iml" filepath="$PROJECT_DIR$/Bilet 1/Bilet 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bilet 2/Bilet 2.iml" filepath="$PROJECT_DIR$/Bilet 2/Bilet 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ciocan_Stefania_ACTIVITATECTS2025.iml" filepath="$PROJECT_DIR$/Ciocan_Stefania_ACTIVITATECTS2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Introducere/Introducere.iml" filepath="$PROJECT_DIR$/Introducere/Introducere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema 1/Problema 1.iml" filepath="$PROJECT_DIR$/Problema 1/Problema 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema 2/Problema 2.iml" filepath="$PROJECT_DIR$/Problema 2/Problema 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema 3/Problema 3.iml" filepath="$PROJECT_DIR$/Problema 3/Problema 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema restaurant/Problema restaurant.iml" filepath="$PROJECT_DIR$/Problema restaurant/Problema restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema spital/Problema spital.iml" filepath="$PROJECT_DIR$/Problema spital/Problema spital.iml" />
     </modules>
   </component>
 </project>
